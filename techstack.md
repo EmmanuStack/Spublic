@@ -199,6 +199,7 @@ Full tech stack [here](/techstack.md)
 |[glob](https://www.npmjs.com/glob)|v8.0.3|N/A|N/A |ISC|N/A|
 |[glob-promise](https://www.npmjs.com/glob-promise)|v6.0.2|N/A|N/A |MIT|N/A|
 |[gm](https://www.npmjs.com/gm)|N/A|N/A|N/A |MIT|N/A|
+|[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|N/A|N/A |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[he](https://www.npmjs.com/he)|N/A|N/A|N/A |MIT|N/A|
 |[highlight.js](https://www.npmjs.com/highlight.js)|N/A|N/A|N/A |BSD-3-Clause|N/A|
 |[http](https://www.npmjs.com/http)|N/A|N/A|N/A |BSD-2-Clause|N/A|
@@ -220,7 +221,6 @@ Full tech stack [here](/techstack.md)
 |[rc](https://www.npmjs.com/rc)|N/A|N/A|N/A |BSD-2-Clause,MIT,Apache-2.0|N/A|
 |[ref](https://www.npmjs.com/ref)|N/A|N/A|N/A |MIT|N/A|
 |[resolve](https://www.npmjs.com/resolve)|N/A|N/A|N/A |MIT|N/A|
-|[rollup](https://www.npmjs.com/rollup)|v2.47.0|N/A|N/A |MIT|N/A|
 |[serve](https://www.npmjs.com/serve)|N/A|N/A|N/A |MIT|N/A|
 |[should](https://www.npmjs.com/should)|v13.2.3|N/A|N/A |MIT|N/A|
 |[st](https://www.npmjs.com/st)|N/A|N/A|N/A |ISC|N/A|
