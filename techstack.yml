@@ -1,21 +1,12 @@
 repo_name: EmmanuStack/Spublic
-report_id: b6d438225eaf37ec568d1b043c7c21b9
+report_id: 180e1edadac4bf8273e51eaaea5e9dee
 repo_type: Public
-timestamp: '2023-11-07T20:20:17+00:00'
+timestamp: '2023-11-08T14:13:14+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 75
+detected_tools_count: 70
 tools:
-- name: D
-  description: Modern convenience. Modeling power. Native efficiency.
-  website_url: http://dlang.org/
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/3117/d-5.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: Handlebars.js
   description: Minimal Templating on Steroids
   website_url: http://handlebarsjs.com/
@@ -36,16 +27,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: Ruby
-  description: A dynamic, interpreted, open source programming language with a focus
-    on simplicity and productivity
-  website_url: https://www.ruby-lang.org
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -68,16 +49,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: ws
-  description: A Node.js WebSocket library
-  website_url: https://github.com/websockets/ws
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Application Hosting
-  sub_category: Realtime Backend / API
-  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -110,35 +81,6 @@ tools:
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
   detection_source_url: vendor/assets/javascripts/highlightjs/package.json
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: RubyGems
-  description: Easily download, install, and use ruby software packages on your system
-  website_url: https://rubygems.org/
-  open_source: false
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Package Managers
-  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: highlight.js
-  description: Syntax highlighter in JavaScript
-  website_url: https://highlightjs.org/
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Text Editor
-  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: hub
-  description: Wraps Git with extra features that make working with GitHub easier
-    (by GitHub)
-  website_url: http://hub.github.com/
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Git Tools
-  image_url: https://img.stackshare.io/no-img-open-source.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: jsdom
   description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
@@ -182,6 +124,12 @@ tools:
   image_url: https://img.stackshare.io/service/2438/lodash.png
   detection_source_url: vendor/assets/javascripts/highlightjs/package.json
   detection_source: vendor/assets/javascripts/highlightjs/package.json
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: OpenLayers
   description: A high-performance, feature-packed library for all your mapping needs
   website_url: http://openlayers.org/
@@ -191,25 +139,6 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: auto
-  description: Making the Car buying process easier
-  website_url: http://autoportal.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: js
-  website_url: www.js.com
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/5588/jscom.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-- name: test
-  website_url: test
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: "@octokit/rest"
   description: GitHub REST API client for Node.js
@@ -538,6 +467,16 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
+- name: highlight.js
+  description: Syntax highlighting with language autodetection
+  package_url: https://www.npmjs.com/highlight.js
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16137/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: http
   package_url: https://www.npmjs.com/http
   license: BSD-2-Clause
@@ -793,6 +732,16 @@ tools:
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
   detection_source_url: vendor/assets/javascripts/highlightjs/package.json
   detection_source: vendor/assets/javascripts/highlightjs/package.json
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
 - name: url
   description: The core `url` packaged standalone for use with Browserify
   package_url: https://www.npmjs.com/url
@@ -802,4 +751,14 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+- name: ws
+  description: Simple to use
+  package_url: https://www.npmjs.com/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16044/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
