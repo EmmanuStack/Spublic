@@ -3,15 +3,20 @@
 ## Tech Stack
 EmmanuStack/Spublic is built on the following main stack:
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Ruby](https://www.ruby-lang.org) – Languages
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
 - [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [D](http://dlang.org/) – Languages
 - [OpenLayers](http://openlayers.org/) – Mapping APIs
 - [ESLint](http://eslint.org/) – Code Review
 - [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [highlight.js](https://highlightjs.org/) – Text Editor
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [hub](http://hub.github.com/) – Git Tools
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
 
 Full tech stack [here](/techstack.md)
 --- Readme.md Snippet without images End ---
@@ -20,15 +25,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 EmmanuStack/Spublic is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'/> [Handlebars.js](http://handlebarsjs.com/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
 
 Full tech stack [here](/techstack.md)
 --- Readme.md Snippet with images End ---
@@ -38,13 +48,21 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [EmmanuStack/Spublic](https://github.com/EmmanuStack/Spublic)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|70<br/>Tools used|11/09/23 <br/>Report generated|
+|75<br/>Tools used|11/16/23 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (5)
 <table><tr>
   <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'>
+  <br>
+  <sub><a href="http://dlang.org/">D</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/1143/Handlebars.png' alt='Handlebars.js'>
   <br>
   <sub><a href="http://handlebarsjs.com/">Handlebars.js</a></sub>
@@ -56,6 +74,14 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
   <br>
   <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'>
+  <br>
+  <sub><a href="https://www.ruby-lang.org">Ruby</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -84,7 +110,20 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (6)
+## <img src='https://img.stackshare.io/databases.svg'/> Data (1)
+<table><tr>
+  <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'>
+  <br>
+  <sub><a href="https://github.com/websockets/ws">ws</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+</tr>
+</table>
+
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (9)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'>
@@ -111,6 +150,30 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg' alt='RubyGems'>
+  <br>
+  <sub><a href="https://rubygems.org/">RubyGems</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'>
+  <br>
+  <sub><a href="https://highlightjs.org/">highlight.js</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'>
+  <br>
+  <sub><a href="http://hub.github.com/">hub</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'>
   <br>
   <sub><a href="https://github.com/jsdom/jsdom">jsdom</a></sub>
@@ -126,7 +189,9 @@ Full tech stack [here](/techstack.md)
   <sub></sub>
 </td>
 
-<td align='center'>
+</tr>
+<tr>
+  <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'>
   <br>
   <sub><a href="http://rollupjs.org/">rollup</a></sub>
@@ -137,7 +202,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## Other (3)
+## Other (5)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'>
@@ -148,17 +213,33 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/12294/empty-logo-square.png' alt='NPM Trends'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'>
   <br>
-  <sub><a href="https://www.npmtrends.com/">NPM Trends</a></sub>
+  <sub><a href="http://openlayers.org/">OpenLayers</a></sub>
   <br>
   <sub></sub>
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg' alt='auto'>
   <br>
-  <sub><a href="http://openlayers.org/">OpenLayers</a></sub>
+  <sub><a href="http://autoportal.com/">auto</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5588/jscom.png' alt='js'>
+  <br>
+  <sub><a href="www.js.com">js</a></sub>
+  <br>
+  <sub></sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/5477/no-img-open-source.png' alt='test'>
+  <br>
+  <sub><a href="test">test</a></sub>
   <br>
   <sub></sub>
 </td>
@@ -167,9 +248,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (57)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (54)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (57)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (54)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -201,7 +282,6 @@ Full tech stack [here](/techstack.md)
 |[gm](https://www.npmjs.com/gm)|N/A|09/19/23|emmanu-yahoo |MIT|N/A|
 |[handlebars](https://www.npmjs.com/handlebars)|v4.7.6|09/19/23|emmanu-yahoo |MIT|[CVE-2021-23369](https://github.com/advisories/GHSA-f2jv-r9rf-7988) (Critical)<br/>[CVE-2021-23383](https://github.com/advisories/GHSA-765h-qjxv-5f44) (Critical)|
 |[he](https://www.npmjs.com/he)|N/A|09/19/23|emmanu-yahoo |MIT|N/A|
-|[highlight.js](https://www.npmjs.com/highlight.js)|N/A|09/19/23|emmanu-yahoo |BSD-3-Clause|N/A|
 |[http](https://www.npmjs.com/http)|N/A|09/19/23|emmanu-yahoo |BSD-2-Clause|N/A|
 |[http-server](https://www.npmjs.com/http-server)|v14.1.1|09/19/23|emmanu-yahoo |MIT|N/A|
 |[https](https://www.npmjs.com/https)|N/A|09/19/23|emmanu-yahoo |ISC|N/A|
@@ -227,11 +307,9 @@ Full tech stack [here](/techstack.md)
 |[standard](https://www.npmjs.com/standard)|N/A|09/19/23|emmanu-yahoo |MIT|N/A|
 |[table](https://www.npmjs.com/table)|N/A|09/19/23|emmanu-yahoo |BSD-3-Clause|N/A|
 |[terser](https://www.npmjs.com/terser)|v5.17.1|09/19/23|emmanu-yahoo |BSD-2-Clause|N/A|
-|[test](https://www.npmjs.com/test)|N/A|09/19/23|emmanu-yahoo |MIT|N/A|
 |[url](https://www.npmjs.com/url)|N/A|09/19/23|emmanu-yahoo |MIT|N/A|
-|[ws](https://www.npmjs.com/ws)|N/A|09/19/23|emmanu-yahoo |MIT|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
