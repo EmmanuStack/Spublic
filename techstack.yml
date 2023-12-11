@@ -1,56 +1,12 @@
 repo_name: EmmanuStack/Spublic
-report_id: fb58e37e1df25978529a3f72c8231cc6
+report_id: 340c5828e32062ba8b25ffaed212dbde
 repo_type: Public
-timestamp: '2023-12-08T22:04:51+00:00'
+timestamp: '2023-12-11T20:05:13+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 94
+detected_tools_count: 71
 tools:
-- name: Bel
-  description: A new dialect of Lisp, by Paul Graham
-  website_url: http://paulgraham.com/bel.html
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/11408/no-img-open-source.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: C lang
-  description: One of the most widely used programming languages of all time
-  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: D
-  description: Modern convenience. Modeling power. Native efficiency.
-  website_url: http://dlang.org/
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/3117/d-5.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: ES6
-  description: The next version of JavaScript
-  website_url: http://www.ecma-international.org/ecma-262/6.0/
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: Handlebars.js
   description: Minimal Templating on Steroids
   website_url: http://handlebarsjs.com/
@@ -64,17 +20,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: JSON
-  description: A lightweight data-interchange format
-  website_url: http://www.json.org/
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
     functions
@@ -84,30 +29,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Python
-  description: A clear and powerful object-oriented programming language, comparable
-    to Perl, Ruby, Scheme, or Java.
-  website_url: https://www.python.org
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Ruby
-  description: A dynamic, interpreted, open source programming language with a focus
-    on simplicity and productivity
-  website_url: https://www.ruby-lang.org
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
@@ -125,19 +46,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: ".NET"
-  description: A free, cross-platform, open source developer platform for building
-    many different types of applications
-  website_url: http://www.microsoft.com/net/
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Frameworks (Full Stack)
-  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -147,18 +55,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Omi
-  description: Next generation web framework in 4KB JavaScript (Web Components + JSX
-    + Proxy + Path Updating)
-  website_url: https://github.com/Tencent/omi
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: Javascript UI Libraries
-  image_url: https://img.stackshare.io/service/9702/omi-logo.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
@@ -221,28 +117,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: PyPI
-  description: A repository of software for the Python programming language
-  website_url: https://pypi.org/
-  open_source: false
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Hosted Package Repository
-  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: RubyGems
-  description: Easily download, install, and use ruby software packages on your system
-  website_url: https://rubygems.org/
-  open_source: false
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Package Managers
-  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: highlight.js
   description: Syntax highlighter in JavaScript
   website_url: https://highlightjs.org/
@@ -254,19 +128,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-12-02 08:39:29.000000000 Z
-- name: hub
-  description: Wraps Git with extra features that make working with GitHub easier
-    (by GitHub)
-  website_url: http://hub.github.com/
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Git Tools
-  image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: jsdom
   description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
     use with node.js
@@ -315,86 +176,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Gmail
-  description: A free web-based e-mail service
-  website_url: https://mail.google.com
-  open_source: false
-  hosted_saas: true
-  category: Back Office
-  sub_category: Email Services
-  image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Omise
-  description: An online payment gateway offering a wide range of processing solutions
-    for any business need
-  website_url: https://www.omise.co/
-  open_source: false
-  hosted_saas: true
-  category: Payments
-  sub_category: Payment Services
-  image_url: https://img.stackshare.io/service/8491/jYzpfxho_400x400.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Typ
-  description: Turn Markdown into formatted PDFs
-  website_url: https://www.typ-set.com/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Assets and Media
-  sub_category: File Conversion
-  image_url: https://img.stackshare.io/service/11914/typ.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: CommonJS
-  website_url: http://www.commonjs.org
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2931/no-img-open-source.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Contrast
-  description: 'Welcome to the Era of Self-Protecting Software. #AppSec #Security
-    #IAST #RASP #DevSecOps #DevOps'
-  website_url: http://contrastsecurity.com
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/7116/NS-LOGOContrastSec.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: EC
-  website_url: BUG
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: ECT
-  website_url: http://ectjs.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Lob
-  description: Print and Mail for Developers
-  website_url: https://lob.com/
-  open_source: false
-  hosted_saas: false
-  category: Application Utilities
-  sub_category: Printing API
-  image_url: https://img.stackshare.io/service/281/default_917b21004d74cbcfcbafcd50aac4d1f3fe3747d5.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: Lodash
   description: A JavaScript utility library
   website_url: https://lodash.com
@@ -408,6 +189,14 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: NPM Trends
+  website_url: https://www.npmtrends.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/12294/empty-logo-square.png
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: OpenLayers
   description: A high-performance, feature-packed library for all your mapping needs
   website_url: http://openlayers.org/
@@ -417,52 +206,6 @@ tools:
   category: Application Utilities
   sub_category: Mapping APIs
   image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: Vercel AI SDK
-  description: An interoperable, streaming-enabled, edge-ready software development
-    kit for AI apps
-  website_url: https://sdk.vercel.ai/docs
-  open_source: true
-  hosted_saas: false
-  category: Communications
-  sub_category: Large Language Model Tools
-  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: auto
-  description: Making the Car buying process easier
-  website_url: http://autoportal.com/
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2634/quvIzEn2_normal.jpg
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: js
-  website_url: www.js.com
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/5588/jscom.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: nci
-  description: Flexible, open source continuous integration server written in node.js
-  website_url: https://github.com/node-ci/nci
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/7802/13189529.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: test
-  website_url: test
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/5477/no-img-open-source.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
@@ -769,18 +512,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: github
-  description: 'DEPRECATED: renamed to @octokit/rest'
-  package_url: https://www.npmjs.com/github
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: glob
   description: A little globber
   package_url: https://www.npmjs.com/glob
@@ -943,6 +674,18 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: json
+  description: A 'json' command for massaging and processing JSON on the command line
+  package_url: https://www.npmjs.com/json
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17859/default_dc034f75f103514d23b4d1a7fe578415d63216ee.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
@@ -1139,6 +882,18 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
   detection_source_url: github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
