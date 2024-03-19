@@ -1,12 +1,12 @@
 repo_name: EmmanuStack/Spublic
-report_id: b64df628b11997a6f8de6acbc54c26bd
+report_id: 49d4b159032708d92681044c6b82e12e
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-13T20:32:46+00:00'
+timestamp: '2024-03-19T14:38:19+00:00'
 requested_by: emmanu-yahoo
 provider: github
 branch: main
-detected_tools_count: 71
+detected_tools_count: 74
 tools:
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -57,19 +57,6 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: ws
-  description: A Node.js WebSocket library
-  website_url: https://github.com/websockets/ws
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Application Hosting
-  sub_category: Realtime Backend / API
-  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
   detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
@@ -183,6 +170,19 @@ tools:
   category: Application Hosting
   sub_category: Mobile Backend
   image_url: https://img.stackshare.io/service/86/68wTsXcT.png
+  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
   detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
@@ -576,34 +576,6 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
-- name: handlebars
-  description: Handlebars provides the power necessary to let you build semantic templates
-    effectively with no frustration
-  package_url: https://www.npmjs.com/handlebars
-  version: 4.7.6
-  license: MIT
-  open_source: true
-  hosted_saas: false
-  category: Libraries
-  sub_category: npm Packages
-  image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
-  detection_source: vendor/assets/javascripts/highlightjs/package.json
-  last_updated_by: emmanu-yahoo
-  last_updated_on: 2023-09-19 12:27:00.000000000 Z
-  vulnerabilities:
-  - name: Remote code execution in handlebars when compiling templates
-    cve_id: CVE-2021-23369
-    cve_url: https://github.com/advisories/GHSA-f2jv-r9rf-7988
-    detected_date: Aug 22
-    severity: critical
-    first_patched: 4.7.7
-  - name: Prototype Pollution in handlebars
-    cve_id: CVE-2021-23383
-    cve_url: https://github.com/advisories/GHSA-765h-qjxv-5f44
-    detected_date: Feb 11
-    severity: critical
-    first_patched: 4.7.7
 - name: he
   description: A robust HTML entities encoder/decoder with full Unicode support
   package_url: https://www.npmjs.com/he
@@ -617,6 +589,19 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: highlight.js
+  description: Syntax highlighting with language autodetection
+  package_url: https://www.npmjs.com/highlight.js
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16137/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-12-02 08:39:29.000000000 Z
 - name: http
   package_url: https://www.npmjs.com/http
   license: BSD-2-Clause
@@ -799,6 +784,19 @@ tools:
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
   last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: parse
+  description: The Parse JavaScript SDK
+  package_url: https://www.npmjs.com/parse
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18631/default_9435962787d899b43c107b26a450d4a5a0784dc8.png
+  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
 - name: promise
   description: Bare bones Promises/A+ implementation
   package_url: https://www.npmjs.com/promise
@@ -847,6 +845,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: rollup
+  description: Next-generation ES module bundler
+  package_url: https://www.npmjs.com/rollup
+  version: 2.47.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15824/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
   detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
@@ -940,6 +952,20 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
+  detection_source: vendor/assets/javascripts/highlightjs/package.json
+  last_updated_by: emmanu-yahoo
+  last_updated_on: 2023-09-19 12:27:00.000000000 Z
+- name: typescript
+  description: TypeScript is a language for application scale JavaScript development
+  package_url: https://www.npmjs.com/typescript
+  version: 5.0.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15796/default_cea50d31e35529cdbdaa96a7b2786f343a307499.png
   detection_source_url: https://github.com/EmmanuStack/Spublic/blob/main/vendor/assets/javascripts/highlightjs/package.json
   detection_source: vendor/assets/javascripts/highlightjs/package.json
   last_updated_by: emmanu-yahoo
